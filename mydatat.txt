@@ -1,0 +1,66 @@
+Shabbar Ansari
+Delhi, South Delhi, 110074, India
+Email: shabbaransari98@gmail.com
+Phone: +91 8090501210
+GitHub: shabbarrazaansari
+
+Skills
+Languages & Technologies:
+HTML, CSS, JavaScript, TypeScript, C++, Python
+Node.js, React, Express.js, Bootstrap
+MySQL, MongoDB
+Git/GitHub, AWS, Postman
+Certifications
+IBM SkillsBuild (Internship Certificate)
+Awards
+Inter-Departmental Cricket Champion
+Languages
+English (Fluent)
+Hindi (Fluent)
+Professional Summary
+Back-end developer with experience working with third-party APIs, web services, and relational databases. Well-versed in web development, content management systems, and full-stack technologies.
+
+Work Experience
+Codenia Technologies LLP
+Back-end Developer
+Dates: May 20, 2024 - Present
+
+Created RESTful APIs with Node.js to handle client requests.
+Collaborated with front-end developers to integrate server-side logic with user-facing elements.
+Assisted in developing user interface components with React.
+IBM
+Full Stack Intern
+Dates: August 12, 2022 - October 24, 2022
+
+Collaborated within a team of interns at IBM, focusing primarily on backend development tasks.
+Utilized technologies such as Node.js, Express.js, and MySQL.
+Developed RESTful APIs to facilitate communication between frontend and backend systems.
+Projects
+Group Chat App
+
+Designed schema for chats, users, and groups, and established associations between them.
+Followed the MVC (Model-View-Controller) pattern.
+Implemented group creation and deletion functionalities.
+Added admin features allowing users to manage members and assign admin roles.
+GitHub: Group Chat App
+Expense Tracker
+
+Built using HTML, CSS, and JavaScript, integrated with Node.js and Express.js.
+Added report generation feature for premium users.
+Implemented user authentication using JWT token and encrypted passwords with bcrypt.
+Integrated Razorpay payment gateway.
+GitHub: Expense Tracker
+Blog Website
+
+Developed the frontend using HTML, CSS, and JavaScript.
+Used Node.js and Express.js for server-side logic and MySQL for data storage.
+GitHub: Blog Website
+Education
+I.E.T. Dr. Ram Manohar Lohia University
+
+B.Tech in Information Technology, August 31, 2019 - August 11, 2023
+CGPA: 77%
+Gyan Kunj Academy
+
+Intermediate (PCM), March 31, 2017 - March 22, 2018
+Percentage: 69%
